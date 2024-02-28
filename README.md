@@ -1,4 +1,5 @@
-# FastAPI Receipts API
+# FastAPI Receipts API  
+Попытка реализации
 
 Простой API для управления чеками продаж с использованием FastAPI, SQLAlchemy и Pydantic.  
 
